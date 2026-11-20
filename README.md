@@ -47,6 +47,7 @@ Cognigy, Dialogflow CX/ES, Kore.ai, Amazon Lex, Amazon Connect, GCP, AWS, and Az
 
 ## Connect
 
+- [AI engineering portfolio](https://tarunqwerty.github.io/ai-engineer-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/tarun-yadav-8b059588/)
 - [Featured project](https://github.com/tarunqwerty/evidence-first-insurance-rag)
 
