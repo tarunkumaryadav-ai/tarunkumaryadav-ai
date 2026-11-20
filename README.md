@@ -20,7 +20,7 @@ across banking, insurance, hospitality, and customer-service domains.
 
 ## Featured engineering work
 
-### [Evidence-First Insurance RAG](https://github.com/tarunqwerty/evidence-first-insurance-rag)
+### [Evidence-First Insurance RAG](https://github.com/tarunkumaryadav-ai/evidence-first-insurance-rag)
 
 A local-first RAG application that turns public insurance content into traceable,
 source-backed answers. It includes controlled crawling, structured metadata,
@@ -34,8 +34,8 @@ source URLs in supported answers · fully local model execution
 
 ## Experience and platforms
 
-I have 4+ years of dedicated conversational and generative AI engineering experience,
-supported by earlier NLP and customer-technology work. My platform experience includes
+I have 11+ years of professional experience spanning customer technology, NLP,
+conversational AI, and generative AI, with an AI engineering focus since 2022. My platform experience includes
 Cognigy, Dialogflow CX/ES, Kore.ai, Amazon Lex, Amazon Connect, GCP, AWS, and Azure.
 
 ## Certifications
@@ -47,9 +47,9 @@ Cognigy, Dialogflow CX/ES, Kore.ai, Amazon Lex, Amazon Connect, GCP, AWS, and Az
 
 ## Connect
 
-- [AI engineering portfolio](https://tarunqwerty.github.io/ai-engineer-portfolio/)
+- [AI engineering portfolio](https://tarunkumaryadav-ai.github.io/ai-engineer-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/tarun-yadav-8b059588/)
-- [Featured project](https://github.com/tarunqwerty/evidence-first-insurance-rag)
+- [Featured project](https://github.com/tarunkumaryadav-ai/evidence-first-insurance-rag)
 
 I am interested in AI engineering opportunities involving grounded knowledge systems,
 enterprise agents, conversational AI, and responsible production delivery.
